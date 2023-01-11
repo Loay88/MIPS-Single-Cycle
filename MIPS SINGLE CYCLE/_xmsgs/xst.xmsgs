@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\Proccessor_LM_19101664.vhd" Line 273: Actual for formal port <arg fmt="%s" index="1">s</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\RegisterFile_LM_19101664.vhd" Line 66: <arg fmt="%s" index="1">registers</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\RegisterFile_LM_19101664.vhd" Line 67: <arg fmt="%s" index="1">registers</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\ALU_Control_LM_19101664.vhd" Line 50: <arg fmt="%s" index="1">func</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\ALU_Control_LM_19101664.vhd" Line 52: <arg fmt="%s" index="1">func</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\ALU_Control_LM_19101664.vhd" Line 54: <arg fmt="%s" index="1">func</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\ALU_Control_LM_19101664.vhd" Line 56: <arg fmt="%s" index="1">func</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\ALU_Control_LM_19101664.vhd" Line 58: <arg fmt="%s" index="1">func</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\ALU_Control_LM_19101664.vhd" Line 62: <arg fmt="%s" index="1">func</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\ALU_Control_LM_19101664.vhd" Line 64: <arg fmt="%s" index="1">func</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\Data_Memory_LM_19101664.vhd" Line 63: <arg fmt="%s" index="1">data_memory</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\Data_Memory_LM_19101664.vhd" Line 64: <arg fmt="%s" index="1">data_memory</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\Data_Memory_LM_19101664.vhd" Line 65: <arg fmt="%s" index="1">data_memory</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\Data_Memory_LM_19101664.vhd" Line 66: <arg fmt="%s" index="1">data_memory</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\InstructionMem_LM_19101664.vhd" Line 63: <arg fmt="%s" index="1">mem</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\InstructionMem_LM_19101664.vhd" Line 64: <arg fmt="%s" index="1">mem</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\InstructionMem_LM_19101664.vhd" Line 65: <arg fmt="%s" index="1">mem</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\InstructionMem_LM_19101664.vhd" Line 66: <arg fmt="%s" index="1">mem</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\Proccessor_LM_19101664.vhd</arg>&quot; line <arg fmt="%d" index="2">185</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Control</arg>&gt; of block &lt;<arg fmt="%s" index="4">ControlUnit_LM_19101664</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Proccessor_LM_19101664</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\Proccessor_LM_19101664.vhd</arg>&quot; line <arg fmt="%d" index="2">197</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Registers</arg>&gt; of block &lt;<arg fmt="%s" index="4">RegisterFile_LM_19101664</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Proccessor_LM_19101664</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\Proccessor_LM_19101664.vhd</arg>&quot; line <arg fmt="%d" index="2">209</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">SignExtend</arg>&gt; of block &lt;<arg fmt="%s" index="4">SignExtend_LM_19101664</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Proccessor_LM_19101664</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\Proccessor_LM_19101664.vhd</arg>&quot; line <arg fmt="%d" index="2">215</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">ALUcontrol</arg>&gt; of block &lt;<arg fmt="%s" index="4">ALU_Control_LM_19101664</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Proccessor_LM_19101664</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\Proccessor_LM_19101664.vhd</arg>&quot; line <arg fmt="%d" index="2">222</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">ALU</arg>&gt; of block &lt;<arg fmt="%s" index="4">ALU_LM_19101664</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Proccessor_LM_19101664</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\Proccessor_LM_19101664.vhd</arg>&quot; line <arg fmt="%d" index="2">231</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">DataMem</arg>&gt; of block &lt;<arg fmt="%s" index="4">Data_Memory_LM_19101664</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Proccessor_LM_19101664</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\Proccessor_LM_19101664.vhd</arg>&quot; line <arg fmt="%d" index="2">241</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">PC</arg>&gt; of block &lt;<arg fmt="%s" index="4">PC202_LM_19101664</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Proccessor_LM_19101664</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\Proccessor_LM_19101664.vhd</arg>&quot; line <arg fmt="%d" index="2">248</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">instmem</arg>&gt; of block &lt;<arg fmt="%s" index="4">InstructionMem_LM_19101664</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Proccessor_LM_19101664</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\Proccessor_LM_19101664.vhd</arg>&quot; line <arg fmt="%d" index="2">254</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">adderr4</arg>&gt; of block &lt;<arg fmt="%s" index="4">Adder4</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Proccessor_LM_19101664</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\Proccessor_LM_19101664.vhd</arg>&quot; line <arg fmt="%d" index="2">259</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">adderrr</arg>&gt; of block &lt;<arg fmt="%s" index="4">adder_LM_19101664</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Proccessor_LM_19101664</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\Proccessor_LM_19101664.vhd</arg>&quot; line <arg fmt="%d" index="2">265</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">shl</arg>&gt; of block &lt;<arg fmt="%s" index="4">ShiftLeft_LM_19101664</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Proccessor_LM_19101664</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\Proccessor_LM_19101664.vhd</arg>&quot; line <arg fmt="%d" index="2">270</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">mux1</arg>&gt; of block &lt;<arg fmt="%s" index="4">LM_Mux32_1_19101664</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Proccessor_LM_19101664</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\Proccessor_LM_19101664.vhd</arg>&quot; line <arg fmt="%d" index="2">277</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">mux2</arg>&gt; of block &lt;<arg fmt="%s" index="4">LM_Mux32_2_19101664</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Proccessor_LM_19101664</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\Proccessor_LM_19101664.vhd</arg>&quot; line <arg fmt="%d" index="2">284</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">mux3</arg>&gt; of block &lt;<arg fmt="%s" index="4">LM_Mux_3_19101664</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Proccessor_LM_19101664</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\Proccessor_LM_19101664.vhd</arg>&quot; line <arg fmt="%d" index="2">292</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">mux5</arg>&gt; of block &lt;<arg fmt="%s" index="4">Mux5_LM_19101664</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Proccessor_LM_19101664</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+</messages>
+

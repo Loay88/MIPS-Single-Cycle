@@ -1,0 +1,4 @@
+vhdl work "Mux2to1_LM_19101664.vhd"
+vhdl work "Mux4to1_LM_19101664.vhd"
+verilog work "Mux4to1_Fixture.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

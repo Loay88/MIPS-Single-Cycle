@@ -1,0 +1,51 @@
+ISim log file
+Running: C:\AAST\Term 6\Computer Architechture\Lab\MIPS_SINGLE_CYCLE_LM_19101664\Processor_test_LM_19101664_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/AAST/Term 6/Computer Architechture/Lab/MIPS_SINGLE_CYCLE_LM_19101664/Processor_test_LM_19101664_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /processor_test_lm_19101664/uut/Registers/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /processor_test_lm_19101664/uut/Registers/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /processor_test_lm_19101664/uut/ALU/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /processor_test_lm_19101664/uut/instmem/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /processor_test_lm_19101664/uut/instmem/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /processor_test_lm_19101664/uut/instmem/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /processor_test_lm_19101664/uut/instmem/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /processor_test_lm_19101664/uut/adderr4/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+Finished circuit initialization process.
+at 0 ps, Instance /processor_test_lm_19101664/uut/ALU/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /processor_test_lm_19101664/uut/ALU/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 5 ns(1), Instance /processor_test_lm_19101664/uut/instmem/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 5 ns(1), Instance /processor_test_lm_19101664/uut/instmem/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 5 ns(1), Instance /processor_test_lm_19101664/uut/instmem/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 5 ns(1), Instance /processor_test_lm_19101664/uut/instmem/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+ERROR: Index 128 out of bound 0 to 127. 
+ERROR: In process InstructionMem_LM_19101664.vhd:60 
+ 
+INFO: Simulator is stopped.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /processor_test_lm_19101664/uut/Registers/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /processor_test_lm_19101664/uut/Registers/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /processor_test_lm_19101664/uut/ALU/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /processor_test_lm_19101664/uut/instmem/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /processor_test_lm_19101664/uut/instmem/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /processor_test_lm_19101664/uut/instmem/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /processor_test_lm_19101664/uut/instmem/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /processor_test_lm_19101664/uut/adderr4/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+Finished circuit initialization process.
+at 0 ps, Instance /processor_test_lm_19101664/uut/ALU/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /processor_test_lm_19101664/uut/ALU/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 5 ns(1), Instance /processor_test_lm_19101664/uut/instmem/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 5 ns(1), Instance /processor_test_lm_19101664/uut/instmem/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 5 ns(1), Instance /processor_test_lm_19101664/uut/instmem/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 5 ns(1), Instance /processor_test_lm_19101664/uut/instmem/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+ERROR: Index 128 out of bound 0 to 127. 
+ERROR: In process InstructionMem_LM_19101664.vhd:60 
+ 
+INFO: Simulator is stopped.

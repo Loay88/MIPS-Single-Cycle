@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="MIPS_SINGLE_CYCLE_LM_19101664.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="ALU_Control_LM_19101664.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="ALU_Control_LM_19101664.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="ALU_Control_LM_19101664.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="ALU_Control_LM_19101664.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ALU_Control_LM_19101664.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="ALU_Control_LM_19101664.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="ALU_Control_LM_19101664.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="ALU_Control_LM_19101664.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="ALU_Control_LM_19101664_envsettings.html"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="ALU_Control_LM_19101664_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="ALU_Control_LM_19101664_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ALU_Control_test_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="ALU_Control_test_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="ALU_Control_test_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ALU_Control_test_stx_beh.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="ALU_LM_19101664.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="ALU_LM_19101664.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="ALU_LM_19101664.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="ALU_LM_19101664.ncd" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="ALU_LM_19101664.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="ALU_LM_19101664.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="ALU_LM_19101664.ngr"/>
+    <file xil_pn:fileType="FILE_PAD_MISC" xil_pn:name="ALU_LM_19101664.pad"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAR_REPORT" xil_pn:name="ALU_LM_19101664.par" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="ALU_LM_19101664.pcf" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ALU_LM_19101664.prj"/>
+    <file xil_pn:fileType="FILE_TRCE_MISC" xil_pn:name="ALU_LM_19101664.ptwx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="ALU_LM_19101664.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="ALU_LM_19101664.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_TXT_REPORT" xil_pn:name="ALU_LM_19101664.twr" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_XML_REPORT" xil_pn:name="ALU_LM_19101664.twx" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_UNROUTES" xil_pn:name="ALU_LM_19101664.unroutes" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XPI" xil_pn:name="ALU_LM_19101664.xpi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="ALU_LM_19101664.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="ALU_LM_19101664_envsettings.html"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="ALU_LM_19101664_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="ALU_LM_19101664_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="ALU_LM_19101664_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="ALU_LM_19101664_map.ncd" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="ALU_LM_19101664_map.ngm" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="ALU_LM_19101664_map.xrpt"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="ALU_LM_19101664_ngdbuild.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_EXCEL_REPORT" xil_pn:name="ALU_LM_19101664_pad.csv" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_TXT_REPORT" xil_pn:name="ALU_LM_19101664_pad.txt" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="ALU_LM_19101664_par.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="ALU_LM_19101664_summary.html"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="ALU_LM_19101664_summary.xml"/>
+    <file xil_pn:fileType="FILE_WEBTALK" xil_pn:name="ALU_LM_19101664_usage.xml"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="ALU_LM_19101664_xst.xrpt"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="ALUtest_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Adder4.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Adder4.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Adder4.xst"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="ControlUnit_LM_19101664.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="ControlUnit_LM_19101664.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="ControlUnit_LM_19101664.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="ControlUnit_LM_19101664.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ControlUnit_LM_19101664.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="ControlUnit_LM_19101664.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="ControlUnit_LM_19101664.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="ControlUnit_LM_19101664.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="ControlUnit_LM_19101664_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ControlUnit_LM_19101664_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="ControlUnit_LM_19101664_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="ControlUnit_LM_19101664_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="Data_Memory_LM_19101664.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="Data_Memory_LM_19101664.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="Data_Memory_LM_19101664.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="Data_Memory_LM_19101664.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Data_Memory_LM_19101664.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="Data_Memory_LM_19101664.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="Data_Memory_LM_19101664.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="Data_Memory_LM_19101664.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="Data_Memory_LM_19101664_envsettings.html"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="Data_Memory_LM_19101664_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="Data_Memory_LM_19101664_xst.xrpt"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Data_Memory_test_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="InstructionMem_LM_19101664.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="InstructionMem_LM_19101664.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="InstructionMem_LM_19101664.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="InstructionMem_LM_19101664.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="InstructionMem_LM_19101664.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="InstructionMem_LM_19101664.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="InstructionMem_LM_19101664.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="InstructionMem_LM_19101664.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="InstructionMem_LM_19101664_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="InstructionMem_LM_19101664_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="LM_Mux32_1_19101664.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="LM_Mux32_1_19101664.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="LM_Mux32_1_19101664.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="LM_Mux32_2_19101664.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="LM_Mux32_2_19101664.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="LM_Mux32_2_19101664.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="LM_Mux32_4_19101664.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="LM_Mux32_4_19101664.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="LM_Mux32_4_19101664.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="LM_Mux_3_19101664.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="LM_Mux_3_19101664.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="LM_Mux_3_19101664.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Mux2to1_Fixture_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Mux2to1_Fixture_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="Mux2to1_Fixture_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Mux2to1_Fixture_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Mux4to1_Fixture_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Mux4to1_Fixture_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="Mux4to1_LM_19101664.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="Mux4to1_LM_19101664.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="Mux4to1_LM_19101664.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="Mux4to1_LM_19101664.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Mux4to1_LM_19101664.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="Mux4to1_LM_19101664.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="Mux4to1_LM_19101664.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="Mux4to1_LM_19101664.xst"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="Mux4to1_LM_19101664_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Mux5_LM_19101664.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Mux5_LM_19101664.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Mux5_LM_19101664.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="PC202_LM_19101664.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="PC202_LM_19101664.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="PC202_LM_19101664.xst"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="Proccessor_LM_19101664.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="Proccessor_LM_19101664.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="Proccessor_LM_19101664.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="Proccessor_LM_19101664.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Proccessor_LM_19101664.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="Proccessor_LM_19101664.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="Proccessor_LM_19101664.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="Proccessor_LM_19101664.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="Proccessor_LM_19101664_envsettings.html"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Proccessor_LM_19101664_isim_beh.exe"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Proccessor_LM_19101664_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="Proccessor_LM_19101664_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="Proccessor_LM_19101664_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Processor_test_LM_19101664_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Processor_test_LM_19101664_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="Processor_test_LM_19101664_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Processor_test_LM_19101664_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="RegFileTest_LM_19101664_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="RegFileTest_LM_19101664_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="RegisterFile_LM_19101664.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="RegisterFile_LM_19101664.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="RegisterFile_LM_19101664.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="RegisterFile_LM_19101664.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="RegisterFile_LM_19101664.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="RegisterFile_LM_19101664.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="RegisterFile_LM_19101664.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="RegisterFile_LM_19101664.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="RegisterFile_LM_19101664_envsettings.html"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="RegisterFile_LM_19101664_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="RegisterFile_LM_19101664_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ShiftLeft2_LM_19101664.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ShiftLeft2_LM_19101664.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ShiftLeft2_LM_19101664.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ShiftLeft_LM_19101664.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ShiftLeft_LM_19101664.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ShiftLeft_LM_19101664.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="SignExtend_LM_19101664.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="SignExtend_LM_19101664.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="SignExtend_LM_19101664.xst"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/par.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/trce.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="adder_LM_19101664.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="adder_LM_19101664.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="adder_LM_19101664.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="control_unit_test_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="control_unit_test_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="inst_mem_test_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="inst_mem_test_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="mux32.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="mux32.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="mux32.xst"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1646047839" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1646047839">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1653851043" xil_pn:in_ck="4632946539932755153" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1653851043">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="ALU_Control_LM_19101664.vhd"/>
+      <outfile xil_pn:name="ALU_Control_test.v"/>
+      <outfile xil_pn:name="ALU_LM_19101664.vhd"/>
+      <outfile xil_pn:name="ALUtest.v"/>
+      <outfile xil_pn:name="Adder4.vhd"/>
+      <outfile xil_pn:name="ControlUnit_LM_19101664.vhd"/>
+      <outfile xil_pn:name="Data_Memory_LM_19101664.vhd"/>
+      <outfile xil_pn:name="Data_Memory_test.vhd"/>
+      <outfile xil_pn:name="InstructionMem_LM_19101664.vhd"/>
+      <outfile xil_pn:name="LM_Mux32_1_19101664.vhd"/>
+      <outfile xil_pn:name="LM_Mux32_2_19101664.vhd"/>
+      <outfile xil_pn:name="LM_Mux32_4_19101664.vhd"/>
+      <outfile xil_pn:name="LM_Mux_3_19101664.vhd"/>
+      <outfile xil_pn:name="Mux2to1_Fixture.v"/>
+      <outfile xil_pn:name="Mux2to1_LM_19101664.vhd"/>
+      <outfile xil_pn:name="Mux4to1_Fixture.v"/>
+      <outfile xil_pn:name="Mux4to1_LM_19101664.vhd"/>
+      <outfile xil_pn:name="Mux5_LM_19101664.vhd"/>
+      <outfile xil_pn:name="PC202_LM_19101664.vhd"/>
+      <outfile xil_pn:name="Proccessor_LM_19101664.vhd"/>
+      <outfile xil_pn:name="Processor_test_LM_19101664.vhd"/>
+      <outfile xil_pn:name="RegFileTest_LM_19101664.vhd"/>
+      <outfile xil_pn:name="RegisterFile_LM_19101664.vhd"/>
+      <outfile xil_pn:name="ShiftLeft2_LM_19101664.vhd"/>
+      <outfile xil_pn:name="ShiftLeft_LM_19101664.vhd"/>
+      <outfile xil_pn:name="SignExtend_LM_19101664.vhd"/>
+      <outfile xil_pn:name="adder_LM_19101664.vhd"/>
+      <outfile xil_pn:name="control_unit_test.v"/>
+      <outfile xil_pn:name="inst_mem_test.vhd"/>
+      <outfile xil_pn:name="mux32.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1653852400" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-6002793477614809976" xil_pn:start_ts="1653852400">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1653852400" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="6532590609765426790" xil_pn:start_ts="1653852400">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1652907825" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="2264539059414123391" xil_pn:start_ts="1652907825">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1653852400" xil_pn:in_ck="4632946539932755153" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1653852400">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="ALU_Control_LM_19101664.vhd"/>
+      <outfile xil_pn:name="ALU_Control_test.v"/>
+      <outfile xil_pn:name="ALU_LM_19101664.vhd"/>
+      <outfile xil_pn:name="ALUtest.v"/>
+      <outfile xil_pn:name="Adder4.vhd"/>
+      <outfile xil_pn:name="ControlUnit_LM_19101664.vhd"/>
+      <outfile xil_pn:name="Data_Memory_LM_19101664.vhd"/>
+      <outfile xil_pn:name="Data_Memory_test.vhd"/>
+      <outfile xil_pn:name="InstructionMem_LM_19101664.vhd"/>
+      <outfile xil_pn:name="LM_Mux32_1_19101664.vhd"/>
+      <outfile xil_pn:name="LM_Mux32_2_19101664.vhd"/>
+      <outfile xil_pn:name="LM_Mux32_4_19101664.vhd"/>
+      <outfile xil_pn:name="LM_Mux_3_19101664.vhd"/>
+      <outfile xil_pn:name="Mux2to1_Fixture.v"/>
+      <outfile xil_pn:name="Mux2to1_LM_19101664.vhd"/>
+      <outfile xil_pn:name="Mux4to1_Fixture.v"/>
+      <outfile xil_pn:name="Mux4to1_LM_19101664.vhd"/>
+      <outfile xil_pn:name="Mux5_LM_19101664.vhd"/>
+      <outfile xil_pn:name="PC202_LM_19101664.vhd"/>
+      <outfile xil_pn:name="Proccessor_LM_19101664.vhd"/>
+      <outfile xil_pn:name="Processor_test_LM_19101664.vhd"/>
+      <outfile xil_pn:name="RegFileTest_LM_19101664.vhd"/>
+      <outfile xil_pn:name="RegisterFile_LM_19101664.vhd"/>
+      <outfile xil_pn:name="ShiftLeft2_LM_19101664.vhd"/>
+      <outfile xil_pn:name="ShiftLeft_LM_19101664.vhd"/>
+      <outfile xil_pn:name="SignExtend_LM_19101664.vhd"/>
+      <outfile xil_pn:name="adder_LM_19101664.vhd"/>
+      <outfile xil_pn:name="control_unit_test.v"/>
+      <outfile xil_pn:name="inst_mem_test.vhd"/>
+      <outfile xil_pn:name="mux32.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1653899059" xil_pn:in_ck="4632946539932755153" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-5567968547052362112" xil_pn:start_ts="1653899054">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="Processor_test_LM_19101664_beh.prj"/>
+      <outfile xil_pn:name="Processor_test_LM_19101664_isim_beh.exe"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1653900351" xil_pn:in_ck="-8562216285860820882" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="1459605267504158861" xil_pn:start_ts="1653900351">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="Processor_test_LM_19101664_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+    </transform>
+    <transform xil_pn:end_ts="1648466343" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1648466343">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1652957007" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="6145405894455702679" xil_pn:start_ts="1652957007">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1652957007" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="2264539059414123391" xil_pn:start_ts="1652957007">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1652957007" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1652957007">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1652957007" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="-1258145774590080583" xil_pn:start_ts="1652957007">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1652957007" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="3206529612922900429" xil_pn:start_ts="1652957007">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1652957007" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="-3950700549191530231" xil_pn:start_ts="1652957007">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1652957016" xil_pn:in_ck="-5056646666544348930" xil_pn:name="TRANEXT_xstsynthesize_virtex6" xil_pn:prop_ck="3690397642094866886" xil_pn:start_ts="1652957007">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="ALU_Control_LM_19101664.ngr"/>
+      <outfile xil_pn:name="ALU_LM_19101664.ngr"/>
+      <outfile xil_pn:name="ControlUnit_LM_19101664.ngr"/>
+      <outfile xil_pn:name="Data_Memory_LM_19101664.ngr"/>
+      <outfile xil_pn:name="InstructionMem_LM_19101664.ngr"/>
+      <outfile xil_pn:name="Proccessor_LM_19101664.lso"/>
+      <outfile xil_pn:name="Proccessor_LM_19101664.ngc"/>
+      <outfile xil_pn:name="Proccessor_LM_19101664.ngr"/>
+      <outfile xil_pn:name="Proccessor_LM_19101664.prj"/>
+      <outfile xil_pn:name="Proccessor_LM_19101664.stx"/>
+      <outfile xil_pn:name="Proccessor_LM_19101664.syr"/>
+      <outfile xil_pn:name="Proccessor_LM_19101664.xst"/>
+      <outfile xil_pn:name="Proccessor_LM_19101664_stx_beh.prj"/>
+      <outfile xil_pn:name="Proccessor_LM_19101664_xst.xrpt"/>
+      <outfile xil_pn:name="RegisterFile_LM_19101664.ngr"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1646652726" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="-6666724433632768307" xil_pn:start_ts="1646652726">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+    </transform>
+  </transforms>
+
+</generated_project>

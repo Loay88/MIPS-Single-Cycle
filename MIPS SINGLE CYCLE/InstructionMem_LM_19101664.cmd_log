@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/AAST/Term 6/Computer Architechture/Lab/MIPS_SINGLE_CYCLE_LM_19101664/InstructionMem_LM_19101664.xst" -ofn "C:/AAST/Term 6/Computer Architechture/Lab/MIPS_SINGLE_CYCLE_LM_19101664/InstructionMem_LM_19101664.syr" 

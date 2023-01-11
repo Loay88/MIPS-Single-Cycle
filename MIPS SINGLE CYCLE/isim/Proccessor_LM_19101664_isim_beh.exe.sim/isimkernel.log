@@ -1,0 +1,28 @@
+Command line:
+   Proccessor_LM_19101664_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  54344
+
+Thu May 19 12:43:54 2022
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 5155.25 Meg
+
+ Total Signals          : 94
+ Total Nets             : 3577
+ Total Signal Drivers   : 29
+ Total Blocks           : 20
+ Total Primitive Blocks : 19
+ Total Processes        : 17
+ Total Traceable Variables  : 15
+ Total Scalar Nets and Variables : 4078
+
+ Total Simulation Time: 0.078125 sec
+
+ Current Memory Usage: 5469.82 Meg
+
+Thu May 19 12:44:33 2022
+

@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "D:/MIPS_SINGLE_CYCLE_LM_19101664/RegisterFile_LM_19101664.xst" -ofn "D:/MIPS_SINGLE_CYCLE_LM_19101664/RegisterFile_LM_19101664.syr" 
+xst -intstyle ise -ifn "D:/MIPS_SINGLE_CYCLE_LM_19101664/RegisterFile_LM_19101664.xst" -ofn "D:/MIPS_SINGLE_CYCLE_LM_19101664/RegisterFile_LM_19101664.syr" 
+xst -intstyle ise -ifn "D:/MIPS_SINGLE_CYCLE_LM_19101664/RegisterFile_LM_19101664.xst" -ofn "D:/MIPS_SINGLE_CYCLE_LM_19101664/RegisterFile_LM_19101664.syr" 
+xst -intstyle ise -ifn "D:/MIPS_SINGLE_CYCLE_LM_19101664/RegisterFile_LM_19101664.xst" -ofn "D:/MIPS_SINGLE_CYCLE_LM_19101664/RegisterFile_LM_19101664.syr" 
+xst -intstyle ise -ifn "D:/MIPS_SINGLE_CYCLE_LM_19101664/RegisterFile_LM_19101664.xst" -ofn "D:/MIPS_SINGLE_CYCLE_LM_19101664/RegisterFile_LM_19101664.syr" 

@@ -1,0 +1,10 @@
+xst -intstyle ise -ifn "D:/MIPS_SINGLE_CYCLE_LM_19101664/ALU_LM_19101664.xst" -ofn "D:/MIPS_SINGLE_CYCLE_LM_19101664/ALU_LM_19101664.syr" 
+xst -intstyle ise -ifn "D:/MIPS_SINGLE_CYCLE_LM_19101664/ALU_LM_19101664.xst" -ofn "D:/MIPS_SINGLE_CYCLE_LM_19101664/ALU_LM_19101664.syr" 
+xst -intstyle ise -ifn "D:/MIPS_SINGLE_CYCLE_LM_19101664/ALU_LM_19101664.xst" -ofn "D:/MIPS_SINGLE_CYCLE_LM_19101664/ALU_LM_19101664.syr" 
+xst -intstyle ise -ifn "D:/MIPS_SINGLE_CYCLE_LM_19101664/ALU_LM_19101664.xst" -ofn "D:/MIPS_SINGLE_CYCLE_LM_19101664/ALU_LM_19101664.syr" 
+xst -intstyle ise -ifn "D:/MIPS_SINGLE_CYCLE_LM_19101664/ALU_LM_19101664.xst" -ofn "D:/MIPS_SINGLE_CYCLE_LM_19101664/ALU_LM_19101664.syr" 
+xst -intstyle ise -ifn "D:/MIPS_SINGLE_CYCLE_LM_19101664/ALU_LM_19101664.xst" -ofn "D:/MIPS_SINGLE_CYCLE_LM_19101664/ALU_LM_19101664.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 ALU_LM_19101664.ngc ALU_LM_19101664.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o ALU_LM_19101664_map.ncd ALU_LM_19101664.ngd ALU_LM_19101664.pcf 
+par -w -intstyle ise -ol high -mt off ALU_LM_19101664_map.ncd ALU_LM_19101664.ncd ALU_LM_19101664.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml ALU_LM_19101664.twx ALU_LM_19101664.ncd -o ALU_LM_19101664.twr ALU_LM_19101664.pcf 

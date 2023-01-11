@@ -1,0 +1,53 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "secureip" -o "C:/AAST/Term 6/Computer Architechture/Lab/MIPS_SINGLE_CYCLE_LM_19101664/Processor_test_LM_19101664_isim_beh.exe" -prj "C:/AAST/Term 6/Computer Architechture/Lab/MIPS_SINGLE_CYCLE_LM_19101664/Processor_test_LM_19101664_beh.prj" "work.Processor_test_LM_19101664" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 12
+Turning on mult-threading, number of parallel sub-compilation jobs: 24 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/AAST/Term 6/Computer Architechture/Lab/MIPS_SINGLE_CYCLE_LM_19101664/SignExtend_LM_19101664.vhd" into library work
+Parsing VHDL file "C:/AAST/Term 6/Computer Architechture/Lab/MIPS_SINGLE_CYCLE_LM_19101664/ShiftLeft_LM_19101664.vhd" into library work
+Parsing VHDL file "C:/AAST/Term 6/Computer Architechture/Lab/MIPS_SINGLE_CYCLE_LM_19101664/RegisterFile_LM_19101664.vhd" into library work
+Parsing VHDL file "C:/AAST/Term 6/Computer Architechture/Lab/MIPS_SINGLE_CYCLE_LM_19101664/PC202_LM_19101664.vhd" into library work
+Parsing VHDL file "C:/AAST/Term 6/Computer Architechture/Lab/MIPS_SINGLE_CYCLE_LM_19101664/Mux5_LM_19101664.vhd" into library work
+Parsing VHDL file "C:/AAST/Term 6/Computer Architechture/Lab/MIPS_SINGLE_CYCLE_LM_19101664/LM_Mux_3_19101664.vhd" into library work
+Parsing VHDL file "C:/AAST/Term 6/Computer Architechture/Lab/MIPS_SINGLE_CYCLE_LM_19101664/LM_Mux32_2_19101664.vhd" into library work
+Parsing VHDL file "C:/AAST/Term 6/Computer Architechture/Lab/MIPS_SINGLE_CYCLE_LM_19101664/LM_Mux32_1_19101664.vhd" into library work
+Parsing VHDL file "C:/AAST/Term 6/Computer Architechture/Lab/MIPS_SINGLE_CYCLE_LM_19101664/InstructionMem_LM_19101664.vhd" into library work
+Parsing VHDL file "C:/AAST/Term 6/Computer Architechture/Lab/MIPS_SINGLE_CYCLE_LM_19101664/Data_Memory_LM_19101664.vhd" into library work
+Parsing VHDL file "C:/AAST/Term 6/Computer Architechture/Lab/MIPS_SINGLE_CYCLE_LM_19101664/ControlUnit_LM_19101664.vhd" into library work
+Parsing VHDL file "C:/AAST/Term 6/Computer Architechture/Lab/MIPS_SINGLE_CYCLE_LM_19101664/ALU_LM_19101664.vhd" into library work
+Parsing VHDL file "C:/AAST/Term 6/Computer Architechture/Lab/MIPS_SINGLE_CYCLE_LM_19101664/ALU_Control_LM_19101664.vhd" into library work
+Parsing VHDL file "C:/AAST/Term 6/Computer Architechture/Lab/MIPS_SINGLE_CYCLE_LM_19101664/adder_LM_19101664.vhd" into library work
+Parsing VHDL file "C:/AAST/Term 6/Computer Architechture/Lab/MIPS_SINGLE_CYCLE_LM_19101664/Adder4.vhd" into library work
+Parsing VHDL file "C:/AAST/Term 6/Computer Architechture/Lab/MIPS_SINGLE_CYCLE_LM_19101664/Proccessor_LM_19101664.vhd" into library work
+WARNING:HDLCompiler:946 - "C:/AAST/Term 6/Computer Architechture/Lab/MIPS_SINGLE_CYCLE_LM_19101664/Proccessor_LM_19101664.vhd" Line 273: Actual for formal port s is neither a static name nor a globally static expression
+Parsing VHDL file "C:/AAST/Term 6/Computer Architechture/Lab/MIPS_SINGLE_CYCLE_LM_19101664/Processor_test_LM_19101664.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity ControlUnit_LM_19101664 [controlunit_lm_19101664_default]
+Compiling architecture behavioral of entity RegisterFile_LM_19101664 [registerfile_lm_19101664_default]
+Compiling architecture behavioral of entity SignExtend_LM_19101664 [signextend_lm_19101664_default]
+Compiling architecture behavioral of entity ALU_Control_LM_19101664 [alu_control_lm_19101664_default]
+Compiling architecture behavioral of entity ALU_LM_19101664 [alu_lm_19101664_default]
+Compiling architecture behavioral of entity Data_Memory_LM_19101664 [data_memory_lm_19101664_default]
+Compiling architecture behavioral of entity PC202_LM_19101664 [pc202_lm_19101664_default]
+Compiling architecture behavioral of entity InstructionMem_LM_19101664 [instructionmem_lm_19101664_defau...]
+Compiling architecture behavioral of entity Adder4 [adder4_default]
+Compiling architecture behavioral of entity adder_LM_19101664 [adder_lm_19101664_default]
+Compiling architecture behavioral of entity ShiftLeft_LM_19101664 [shiftleft_lm_19101664_default]
+Compiling architecture behavioral of entity LM_Mux32_1_19101664 [lm_mux32_1_19101664_default]
+Compiling architecture behavioral of entity LM_Mux32_2_19101664 [lm_mux32_2_19101664_default]
+Compiling architecture behavioral of entity LM_Mux_3_19101664 [lm_mux_3_19101664_default]
+Compiling architecture behavioral of entity Mux5_LM_19101664 [mux5_lm_19101664_default]
+Compiling architecture behavioral of entity Proccessor_LM_19101664 [proccessor_lm_19101664_default]
+Compiling architecture behavior of entity processor_test_lm_19101664
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 38 VHDL Units
+Built simulation executable C:/AAST/Term 6/Computer Architechture/Lab/MIPS_SINGLE_CYCLE_LM_19101664/Processor_test_LM_19101664_isim_beh.exe
+Fuse Memory Usage: 37940 KB
+Fuse CPU Usage: 671 ms
